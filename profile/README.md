@@ -9,7 +9,3 @@
 - **Frontend Framework**: NextJS and MUI
 - **Database**: PostgreSQL
 - **Architecture**: Microservice
-
-## Demo
-Here is a short demo video about the project: [Beyond The Seas Demo](https://www.youtube.com/watch?v=yaWbMmAWLrM&t=197s) 
-
